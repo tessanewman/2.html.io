@@ -64,7 +64,7 @@
 
 <body>
 
-    <img src="img/fates.jpg">
+    <img src="self portrait.ai">
 
     <div style="background-color:yellow">
 
