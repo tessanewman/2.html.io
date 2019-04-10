@@ -64,15 +64,15 @@
 
 <body>
 
-    <img src="self portrait.ai">
+    <img src="logo%20and%20mag.ai%20updated.ai">
 
-    <div style="background-color:yellow">
+    <div style="background-color:hotpink">
 
     <h1>This is the main page.</h1>
 
     </div>
 
-    <div style="background-color:green">
+    <div style="background-color:blue">
 
     <p>From this page you can access the other pages</p>
 
@@ -80,9 +80,9 @@
 
     <ul>
 
-      <div style="background-color:gray">
+      <div style="background-color:green">
 
-        <li><a href="page1.html">Here is a link to page one</a></li>
+        <li><a href="page1.html">"dandymooon.html"</a></li>
 
         </div>
 
@@ -98,7 +98,7 @@
 
         </div>
 
-      <li><a href="homeworkpart1.html">Here is a link to Homework One</a>
+      <li><a href="homework.html">Here is a link to Homework One</a>
 
       <li><a href="homeworkpart2.html">Here is a link to Homework One part 2</a>
 
