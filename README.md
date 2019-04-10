@@ -98,7 +98,7 @@
 
         </div>
 
-      <li><a href="dandymoon.psd">Here is a link to Homework One</a>
+      <li><a href="homeworkpart1">Here is a link to Homework One</a>
 
       <li><a href="homeworkpart2.html">Here is a link to Homework One part 2</a>
 
